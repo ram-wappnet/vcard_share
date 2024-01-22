@@ -3,8 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["5S2NTX8YT9.io.tr3zor.dapp"],
-        "paths": ["/register/"]
+        "appIDs": [
+          "5S2NTX8YT9.com.example.vcard_mobile_app"
+        ],
+        "paths": [
+          "/share/"
+        ]
       }
     ]
   }
